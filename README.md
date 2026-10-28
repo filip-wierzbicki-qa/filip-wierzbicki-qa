@@ -9,9 +9,9 @@ Senior QA and Test Manager based in Zürich, Switzerland. 10 years in software t
 - CI with GitHub Actions
 
 ## Featured project
-[uitap-automation](https://github.com/IF22I/uitap-automation): a dual-stack UI test automation portfolio (Python Playwright and Java Selenium) with BDD, nightly CI runs and live Allure reports.
+[uitap-automation](https://github.com/filip-wierzbicki-qa/uitap-automation): a dual-stack UI test automation portfolio (Python Playwright and Java Selenium) with BDD, nightly CI runs and live Allure reports.
 
 ## Open to
 Test Manager, Test Lead and test automation roles in Switzerland.
 
-[LinkedIn](https://www.linkedin.com/in/wierzbickifilip)
+[LinkedIn](https://www.linkedin.com/in/filipwierzbicki/)
