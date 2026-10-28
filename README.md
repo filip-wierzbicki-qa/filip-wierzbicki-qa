@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I am Filip
 
-<!--
-**filip-wierzbicki-qa/filip-wierzbicki-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA and Test Manager based in Zürich, Switzerland. 10 years in software testing and test management in banking and fintech.
 
-Here are some ideas to get you started:
+## What I work on
+- Test strategy, SIT and UAT, release readiness
+- Test automation with Java/Selenium and Python/Playwright
+- BDD with Cucumber and Behave, reporting with Allure
+- CI with GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+[uitap-automation](https://github.com/IF22I/uitap-automation): a dual-stack UI test automation portfolio (Python Playwright and Java Selenium) with BDD, nightly CI runs and live Allure reports.
+
+## Open to
+Test Manager, Test Lead and test automation roles in Switzerland.
+
+[LinkedIn](https://www.linkedin.com/in/wierzbickifilip)
