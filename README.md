@@ -1,6 +1,7 @@
 # Hi, I am Filip
 
-Senior QA and Test Manager based in Zürich, Switzerland. 10 years in software testing and test management in banking and fintech.
+Senior QA and Test Manager based in Zürich, Switzerland. 
+10 years in software testing and test management in banking and fintech.
 
 ## What I work on
 - Test strategy, SIT and UAT, release readiness
